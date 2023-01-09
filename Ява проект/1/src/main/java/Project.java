@@ -35,7 +35,7 @@ public class Project {
             saveGraphDataFile(path, statement);
             System.out.println("==== 2 ====");
             showCountry(statement, "SELECT name,max(economy) FROM Country WHERE region = \"Latin America and Caribbean\" OR region = \"Eastern Asia\"");
-            // 3 как я понял, надо найти максимальный средний по всем показателям
+            // надо найти максимальный средний по всем показателям
             System.out.println("==== 3 ====");
             showCountry(statement, "select *, " +
                     "('happiness rank' + 'happiness score' + 'standard error' + economy + family + health + freedom + trust + generosity + 'dystopia residual')/10 as x " +
