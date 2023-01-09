@@ -1,5 +1,5 @@
 # Java-RTF-Project-3-sem
-Perepelkin Vladimir PI-210915
+Perepelkin Vladimir RI-210915
 
 1. Создание парсера CSV файла
 2. Создание набора таблиц в БД и подключение ее к проекту
