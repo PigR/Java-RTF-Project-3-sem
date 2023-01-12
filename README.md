@@ -11,7 +11,7 @@
 ![alt](https://sun1.userapi.com/sun1-13/s/v1/ig2/kLfmZbsYl-EfCphVqyIzLxFyjDbgJYc3lfgEtf5aj_zjdhYL30_IUp9V8wbPBvzlDILUPZwP2PBmycTzhDC2GcbL.jpg?size=1920x1040&quality=96&type=album)
 
 ### Задания 2 и 3: 
-Найдены страны с максимальный средний показатель по всем показателям
+Найдены страны с максимальным средним по всем показателям
 - Hong Kong
 - Switzerland
 
